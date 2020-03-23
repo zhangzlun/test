@@ -1,0 +1,30 @@
+#new a {
+    text-decoration: none;
+}
+#new dl {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    background: #f3f3f3;
+}
+/*日付設定*/
+#new dt {
+    float: left;
+    width: 9em;
+    color: #ca0e0e;
+    letter-spacing: 0.1em;
+    padding-top: 10px;
+}
+/*記事設定*/
+#new dd {
+    padding-left: 9em;
+    padding-top: 10px;
+    border-bottom: 1px dotted #ccc;
+}
+
+#new .title{
+    text-align: center;
+    font-size: 20px;
+    color: #0b60b4;
+    margin-bottom: 1em;
+}
